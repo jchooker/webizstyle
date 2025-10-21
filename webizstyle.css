@@ -7,11 +7,3 @@ td {
     overflow: hidden;
     text-overflow: ellipsis;
 }
-
-td::after {
-    content: "...";
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    padding-left: 5px;
-}
