@@ -7,3 +7,7 @@ td {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+tr {
+    max-height: 125px !important;
+}
