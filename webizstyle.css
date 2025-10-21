@@ -1,9 +1,14 @@
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
 td {
   padding: 10px;
   max-width: 30vw;
 }
 
-td > * {
+td > div, td > p, td > span {
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
