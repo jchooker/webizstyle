@@ -1,7 +1,7 @@
 td {
     padding: 10px !important;
-    max-height: 40vh;
-    max-width: 60vw;
+    height: 30vh;
+    width: 50vw;
     overflow: hidden;
     white-space: nowrap;
 }
