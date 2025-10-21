@@ -1,11 +1,11 @@
 td {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
     padding: 10px !important;
-    position: relative;
-    max-height: 125px !important;
     max-width: 30vw !important;
     line-height: 1.8em;
     overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 tr {
