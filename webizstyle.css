@@ -1,8 +1,8 @@
 td {
     padding: 10px !important;
     position: relative;
-    height: 20vh !important;
-    width: 30vw !important;
+    height: 10vh !important;
+    max-width: 30vw !important;
     line-height: 1.8em;
     overflow: hidden;
     text-overflow: ellipsis;
